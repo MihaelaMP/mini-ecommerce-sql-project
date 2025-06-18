@@ -20,3 +20,6 @@ ORDER BY categoria;
 -- Elenco dei prodotti con il prezzo maggiore di 100
 SELECT *    FROM prodotti
 WHERE prezzo > 100  
+-- Conteggio totale dei prodotti nel catalogo
+SELECT COUNT(*) AS totale_prodotti
+FROM prodotti;
