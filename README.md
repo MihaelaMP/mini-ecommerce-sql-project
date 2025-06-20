@@ -14,8 +14,9 @@ L'obiettivo è imparare a modellare un database, inserire dati e scrivere query 
 - inserimento_dati.sql : script per l'inserimento dei dati in prodotti, clienti, ordini, ecc.
 - query_analisi.sql : script contenente query per l'analisi dei dati (in continuo aggiornamento).
 
-mini_ecommerce.db                --> Database SQLite
-README.md                        --> Descrizione del progetto
+/mini_ecommerce.db       --> Database SQLite
+
+/README.md               --> Descrizione del progetto
 
 
 ## Come usare
