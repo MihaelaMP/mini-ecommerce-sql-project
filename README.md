@@ -10,9 +10,9 @@ L'obiettivo è imparare a modellare un database, inserire dati e scrivere query 
 ## Struttura del progetto
 
 /sql/
-├── creazione_tabelle.sql        --> Creo le 4 tabelle principali
-├── inserimento_dati.sql         --> Inserisco i dati nei prodotti, clienti, ordini, ecc.
-├── query_analisi.sql            --> Contiene le query per l’analisi (in crescita)
+- creazione_tabelle.sql : script per la creazione delle quattro tabelle principali.
+- inserimento_dati.sql : script per l'inserimento dei dati in prodotti, clienti, ordini, ecc.
+- query_analisi.sql : script contenente query per l'analisi dei dati (in continuo aggiornamento).
 
 mini_ecommerce.db                --> Database SQLite
 README.md                        --> Descrizione del progetto
