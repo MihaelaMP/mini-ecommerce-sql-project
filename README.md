@@ -14,6 +14,10 @@ L'obiettivo è imparare a modellare un database, inserire dati e scrivere query 
 - inserimento_dati.sql : script per l'inserimento dei dati in prodotti, clienti, ordini, ecc.
 - query_analisi.sql : script contenente query per l'analisi dei dati (in continuo aggiornamento).
 
+/powerbi/
+ - mini_ecommerce_report.pbix   # File Power BI completo con grafici e KPI
+ - report1.png           # Screenshot del report per il README
+
 /mini_ecommerce.db       --> Database SQLite
 
 /README.md               --> Descrizione del progetto
