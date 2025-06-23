@@ -29,6 +29,13 @@ L'obiettivo è imparare a modellare un database, inserire dati e scrivere query 
 2. Eseguire gli script SQL nella cartella `/sql/` per creare e popolare le tabelle, se necessario.  
 3. Scrivere query SQL nella sezione “Esegui SQL” per analizzare i dati.
 
+## 📊 Dashboard in Power BI
+
+Questo progetto include un report realizzato con Power BI, basato sui dati del mini e-commerce.  
+Il report mostra le vendite totali, quantità per prodotto e altri KPI utili per il business.
+
+![Dashboard Power BI](powerbi/report1.png)
+
 ## Possibili sviluppi futuri
 
 
